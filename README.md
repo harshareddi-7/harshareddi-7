@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Harsha Vardhan Reddy
+ 👋 Hi there, I’m Harsha Vardhan Reddy
 - 👀 Interests: Coding and Designing
 - 🌱 currently learning: Full Stack web developer
 - 📫 Reach me at:#harshareddy95099@gmail.com 
@@ -22,6 +22,8 @@
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 
+
+⭐️ From [harshareddi-7](https://github.com/harshareddi-7)
 <!---
 harshareddi-7/harshareddi-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
