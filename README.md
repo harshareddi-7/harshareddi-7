@@ -1,5 +1,4 @@
  👋 Hi there, I’m Harsha Vardhan Reddy
- ![Profile Banner]()
 - 👀 Interests: Coding and Designing
 - 🌱 currently learning: Full Stack web developer
 - 📫 Reach me at:#harshareddy95099@gmail.com 
