@@ -1,7 +1,7 @@
  👋 Hi there, I’m Harsha Vardhan Reddy
 - 👀 Interests: Coding and Designing
 - 🌱 currently learning: Full Stack web developer
-- 📫 Reach me at:#harshareddy95099@gmail.com 
+- 📫 Reach me at:#harshatsr@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I recently hiked to the top of mount!
 - 💞️ I’m looking to collaborate on open source Projects
